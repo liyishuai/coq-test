@@ -1,0 +1,6 @@
+-Q theories Test
+theories/Testable.v
+theories/TestableLaws.v
+theories/TestableType.v
+theories/TestableTypeLaws.v
+theories/Test.v
